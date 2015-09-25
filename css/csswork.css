@@ -1,0 +1,77 @@
+.container {
+    width: 1080px;
+    margin: 0 auto;
+    background:#FFFFAA;
+}
+
+.header h1{
+    float: left;
+    margin: 0 50px 0 30px;
+}
+
+.header {
+    clear: both;
+    padding-bottom: 20px;
+    background: #FFAAAA;
+}
+
+.header ul{
+    padding-top: 10px;
+}
+nav ul li {
+    display: inline;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.content{
+    width: 75%;
+    float: left;
+    background-color: #88CC88;
+}
+
+.content img {
+    float: left;
+    margin: 0 20px;
+}
+
+.description {
+    clear: right;
+    padding: 10px 10px 0;
+}
+
+.top-content {
+    height: 230px;
+    clear: both;
+}
+
+.section {
+    float: left;
+    width: 28%;
+}
+
+.aside{
+    width: 25%;
+    float: left;
+    text-align: center; 
+}
+    
+.aside ul{
+    padding: 0;
+}
+
+.aside ul li{
+    list-style-type: none;
+    padding: 5px 0;
+}
+
+.footer {
+    text-align: center;
+    background-color: #4682B4;
+    padding: 10px;
+    clear: both;
+    text-decoration: none;
+}
+
+
+
