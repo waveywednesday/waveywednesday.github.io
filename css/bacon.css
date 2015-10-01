@@ -1,0 +1,39 @@
+body {
+    background: white;
+    color:  black;
+    font-size: 12px;
+    width: 820px;
+}
+
+table, tr, td, th {
+  border-collapse: collapse;
+}
+
+.bacon-info {
+    
+    color: black;
+}
+
+.bacon-answer {
+    color: black;
+    font-family: "Times New Roman";
+}
+
+table {
+	border: 1px solid black;
+	width: 300px;
+}
+
+tr {
+	border: 1px solid black;
+	padding: 3px;
+}
+
+td {
+	border: 1px solid black;
+	padding: 3px;
+}
+
+th {
+	border: 1px solid black;
+}
